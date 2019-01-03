@@ -1,0 +1,30 @@
+.group-btn{
+	margin-left:22%;
+}
+#cat_post img{
+   height:210px!important;
+   width: 350px!important;
+}
+.index_post img{
+	height: 220px!important;
+	width: 350px!important;
+}
+#slide_tag_img img{
+	height: 120px;
+}
+#rightbar_img img{
+	height: 190px!important;
+	width: 288px!important;
+}
+#rightbar_img_small img{
+	height: 100px!important;
+	width: 100px!important;
+}
+#btn-center{
+	display: block;
+	margin: 30px auto;
+}
+#relate_img img{
+	height: 220px!important;
+	width: 290px!important;
+}
